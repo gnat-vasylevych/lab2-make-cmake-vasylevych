@@ -1,1 +1,2 @@
-# lab2-make-cmake-vasylevych
+Author: Vlad Vasylevych
+Variant: 0

@@ -1,0 +1,1 @@
+# lab2-make-cmake-vasylevych
